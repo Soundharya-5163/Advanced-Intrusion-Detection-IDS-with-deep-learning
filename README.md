@@ -1,5 +1,6 @@
 # Advanced-Intrusion-Detection-IDS-with-deep-learning
 The project aims to develop an advanced Intrusion Detection System (IDS) that utilizes deep learning techniques to detect and classify sophisticated cyber threats in real-time. The system will analyze network traffic, system logs, and user behavior to identify potential security threats and alert security teams.
+
 OBJECTIVE:
 1.	Enhanced Detection Accuracy:
              Improve the accuracy of detecting intrusions by leveraging deep learning models that can identify complex patterns and subtle anomalies in network traffic and system logs.
@@ -11,7 +12,6 @@ OBJECTIVE:
                  Design the IDS to scale efficiently with the growth of network traffic and data volume, maintaining performance under high loads.
   	
 METHODOLOGY:
-
   1.Data Collection and Preparation:
                  Identify the threats from KDD CUP.data such as the network traffic , types of attack ,description of attack severity of attack(high , medium, low) 
 
