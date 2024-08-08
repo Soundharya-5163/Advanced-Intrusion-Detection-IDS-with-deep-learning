@@ -23,13 +23,13 @@ METHODOLOGY:
   3.Testing and Evaluation :
                   Real-World Simulation: Deploy the IDS in a controlled environment to test its performance under real-world conditions.
   Model Training:
-                •	Splitting the dataset into training, validation, and testing sets.
-                •	Cross-validation to ensure the model's generalizability.
+                	Splitting the dataset into training, validation, and testing sets.
+                	Cross-validation to ensure the model's generalizability.
   4.Deployment:
                   Monitoring and Maintenance: Continuously monitor the system’s performance and conduct regular maintenance to ensure optimal operation.
   5.Rule and Policy Setup:
-                •	Defining detection rules and policies based on organizational security requirements.
-                •	Setting thresholds for alerts and notifications.
+                  Defining detection rules and policies based on organizational security requirements.
+                	Setting thresholds for alerts and notifications.
 
   6.Continuous Improvement:            
                   Feedback Loop: Establish a feedback mechanism for users to report issues and suggest improvements.
