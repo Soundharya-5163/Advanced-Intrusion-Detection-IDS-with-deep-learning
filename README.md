@@ -12,6 +12,7 @@ OBJECTIVE:
                  Design the IDS to scale efficiently with the growth of network traffic and data volume, maintaining performance under high loads.
   	
 METHODOLOGY:
+
   1.Data Collection and Preparation:
                  Identify the threats from KDD CUP.data such as the network traffic , types of attack ,description of attack severity of attack(high , medium, low) 
 
@@ -25,8 +26,10 @@ METHODOLOGY:
   Model Training:
                 	Splitting the dataset into training, validation, and testing sets.
                 	Cross-validation to ensure the model's generalizability.
+                 
   4.Deployment:
                   Monitoring and Maintenance: Continuously monitor the system’s performance and conduct regular maintenance to ensure optimal operation.
+                  
   5.Rule and Policy Setup:
                   Defining detection rules and policies based on organizational security requirements.
                 	Setting thresholds for alerts and notifications.
